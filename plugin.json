@@ -1,0 +1,13 @@
+﻿{
+  "ID": "UUID",
+  "ActionKeyword": "s",
+  "IsGlobal": false,
+  "Name": "Example Plugin",
+  "Author": "Bryce",
+  "Version": "0.0.1",
+  "Language": "csharp",
+  "Website": "https://github.com/Example",
+  "IcoPathDark": "Images\\unitconverter.dark.png",
+  "IcoPathLight": "Images\\unitconverter.light.png",
+  "ExecuteFileName": "ExamplePlugin.dll"
+}
